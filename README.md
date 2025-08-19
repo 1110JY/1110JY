@@ -1,4 +1,60 @@
-## Hi there 👋
+# Josh Yeung
+
+## About me
+- Computing Science graduate from **Glasgow Caledonian University**  
+- Junior Web Developer | Full-stack Enthusiast  
+- I enjoy building **practical, engaging apps** that focus on usability and clean design.  
+- Currently exploring **Supabase, AWS, and Android development**.  
+
+## Tech Stack 
+- **Languages & Frameworks:** HTML, CSS, JavaScript, React, Next.js, Node.js, Express, MongoDB, Supabase, Python, SQL  
+- **Cloud & DevOps:** AWS, Docker, Git, CI/CD  
+- **Additional Exposure:** Application Architecture, Design Patterns, Data Science, Machine Learning, Secure Software Development
+- **Tools:** Figma, VS Code 
+
+## Projects 
+### Badminton Buddy
+*Badminton Stats Tracker*  
+
+**Key Features:**
+- Track stats for players and pairs
+- Create and manage matchups and sessions
+- Player management (add/edit/remove players)
+- View stats including: Total Players, Games Played, Games Completed, Top Pair, Player Rankings, Pair Rankings
+- Export stats to CSV files for analysis
+
+**Tech Used:** Next.js + Supabase  
+**Extras:** Game-inspired UI for fun usability
+
+---
+
+### Fridge to Feast 
+*Recipe matcher than minmises waste and maximises flavour*  
+
+**Key Features:**
+- Match recipes based on available ingredients
+- Ingredient filtering by type (meat, vegetables, spices, etc.)
+- Ingredients finder using google maps  
+
+**Tech Used:** React, Node.js  
+**Extras:** Focused on clean UX/UI and accessibility for all users
+
+---
+
+### Campus Habit Hero 
+*Something Something Something*  
+
+**Key Features:**  
+
+**Tech Used:**  
+**Extras:**
+
+## Interests
+
+
+## Connect with me 
+Joshjunmun@gmail.com
+
 
 <!--
 **1110JY/1110JY** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
