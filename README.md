@@ -57,7 +57,7 @@
 
 ## Connect with me 
 Joshjunmun@gmail.com
-
+http://www.linkedin.com/in/josh-yeung2908
 
 <!--
 **1110JY/1110JY** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
