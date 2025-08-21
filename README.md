@@ -7,7 +7,7 @@
 - Currently exploring **Supabase, AWS, and Android development**.  
 
 ## Tech Stack 
-- **Languages & Frameworks:** HTML, CSS, JavaScript, React, Next.js, Node.js, Express, MongoDB, Supabase, Python, SQL  
+- **Languages & Frameworks:** HTML, CSS, JavaScript, React, Next.js, TypeScript, Node.js, Express, MongoDB, Supabase, Python, SQL  
 - **Cloud & DevOps:** AWS, Docker, Git, CI/CD  
 - **Additional Exposure:** Application Architecture, Design Patterns, Data Science, Machine Learning, Secure Software Development
 - **Tools:** Figma, VS Code 
