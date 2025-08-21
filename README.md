@@ -52,6 +52,8 @@
 
 **Tech Used:**  React, Node.js, MongoDB  
 
+---
+
 ## Interests
 I’ve always had an interest in tech, so I’m constantly curious about the latest tools and gadgets. I like programming because it gives me the chance to turn ideas into something real, like when I built Badminton Buddy. In my downtime, I like to play badminton, which is a fun way for me to stay active. I also enjoy gaming, not just for entertainment, but because I like the strategy and teamwork that comes with it. 
 
