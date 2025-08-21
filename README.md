@@ -2,7 +2,7 @@
 
 ## About me
 - Computing Science graduate from **Glasgow Caledonian University**  
-- Junior Web Developer | Full-stack Enthusiast  
+- Junior Software Developer | Full-stack Enthusiast  
 - I enjoy building **practical, engaging apps** that focus on usability and clean design.  
 - Currently exploring **Supabase, AWS, and Android development**.  
 
