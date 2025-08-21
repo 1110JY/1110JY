@@ -24,7 +24,7 @@
 - Export stats to CSV files for analysis
 
 **Tech Used:** Next.js + Supabase  
-**Extras:** Game-inspired UI for fun usability
+**Extras:** Simple and Minimal UI for usability
 
 ---
 
@@ -42,12 +42,15 @@
 ---
 
 ### Campus Habit Hero 
-*Something Something Something*  
+*A students guide to success and well-being*  
 
 **Key Features:**  
+- Personalised Growth and Academic Empowerment
+- Goal Setting and Progress Tracking
+- Deadline and Assignment Management
+- Curated Resource Library
 
-**Tech Used:**  
-**Extras:**
+**Tech Used:**  React, Node.js, MongoDB  
 
 ## Interests
 
